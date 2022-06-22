@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 
 [![Gabriel's GitHub Banner](./assets/GitHubHeader.png)](https://www.gabrielzacarias.com)
 
+Hey there 👋
+
+I’m Gabriel, a Software Engineer by day and gamer by night. I specialize in minimal designs, animations, and detail. I thrive in working with others and using learning new programming languages, tools, and unit testing!
