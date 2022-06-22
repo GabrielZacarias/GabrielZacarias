@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hey there 👋
 
-I’m Gabriel, a Software Engineer by day and gamer by night. I specialize in minimal designs, animations, and detail. I thrive in working with others and using learning new programming languages, tools, and unit testing!
+I’m Gabriel, a Software Engineer by day and gamer by night. I specialize in minimal designs, animations, and detail. I thrive in working with others and learning new programming languages, tools, and unit testing!
 
 ## 💼 Skills
 
